@@ -30,6 +30,8 @@ O arquivo `Reporte_Vendas.pbix` está dividido em duas páginas:
 
  3. **Navegação Pelas Funcionalidades do Relatório:**
 
+![Navegação do relatório](Navegação_BI.gif)
+
 ---
 
 ## 🚀 Aprimoramentos e Diferenciais Implementados
