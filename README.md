@@ -20,9 +20,13 @@ O arquivo `Reporte_Vendas.pbix` está dividido em duas páginas principais:
    - Inclusão de botões para alternar a navegação entre visões de vendas por país e segmento.
    - Aplicação de segmentadores de dados para navegação interativa.
 
+  [Reporte de Vendas](Reporte_de_Vendas.png)
+
 2. **Página 2 — Reporte de Lucro (Replicação Independente):**
    - Replicação autônoma dos visuais solicitados para atender aos objetivos do desafio, também acompanhada de melhorias de navegação.
    - Aplicação de segmentadores interativos.
+
+ [Reporte de Lucro](Reporte_de_Lucro.png)
 
 ---
 
