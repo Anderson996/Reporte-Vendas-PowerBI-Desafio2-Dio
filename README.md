@@ -28,9 +28,9 @@ O arquivo `Reporte_Vendas.pbix` está dividido em duas páginas:
 
  ![Reporte de Lucro](Reporte_de_Lucro.png)
 
- 3. **Amostra de Navegação Pelas Funcionalidades do Relatório:**
+ 3. **Navegação Pelas Funcionalidades do Relatório:**
 
-![Navegação do relatório](Amostra_Financeira_BI.gif)
+![Navegação do relatório](Navegação_BI.gif)
 
 ---
 
