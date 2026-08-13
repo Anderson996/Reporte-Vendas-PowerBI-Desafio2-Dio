@@ -12,7 +12,7 @@ O foco técnico desta entrega esteve concentrado em:
 
 ## 📊 Estrutura do Relatório
 
-O arquivo `Reporte_Vendas.pbix` está dividido em duas páginas principais:
+O arquivo `Reporte_Vendas.pbix` está dividido em duas páginas:
 
 1. **Página 1 — Reporte de Vendas (Processo Guiado):** 
    - Replicação passo a passo da estrutura demonstrada no vídeo instrucional com melhorias detalhadas na seção seguinte.
@@ -20,13 +20,17 @@ O arquivo `Reporte_Vendas.pbix` está dividido em duas páginas principais:
    - Inclusão de botões para alternar a navegação entre visões de vendas por país e segmento.
    - Aplicação de segmentadores de dados para navegação interativa.
 
-  ![Reporte_de_Vendas.png](Reporte_de_Vendas.png)
+  ![Reporte de Vendas](Reporte_de_Vendas.png)
 
 2. **Página 2 — Reporte de Lucro (Replicação Independente):**
    - Replicação autônoma dos visuais solicitados para atender aos objetivos do desafio, também acompanhada de melhorias de navegação.
    - Aplicação de segmentadores interativos.
 
  ![Reporte de Lucro](Reporte_de_Lucro.png)
+
+ 3. **Amostra de Navegação Pelas Funcionalidades do Relatório:**
+
+![Navegação do relatório](Amostra_Financeira_BI.gif)
 
 ---
 
